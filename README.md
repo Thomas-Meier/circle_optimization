@@ -6,7 +6,7 @@ L'objectif de ce repository est de proposer une solution pour le problème suiva
 
 ## Définition du problème
 
-On souhaite maximiser r:
+On souhaite maximiser r :
 
 (placer ici les equations en format Latx)
 
